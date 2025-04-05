@@ -2,7 +2,7 @@
 #include "types.h"
 #include "logger.h"
 
-//±¾Ä£¿éÊÇ´¦Àí´íÎóÀàĞÍ
+//å¤„ç†é”™è¯¯ä¿¡æ¯çš„å‡½æ•°
 void log_error(const char* format, ...);
 
 void log_warning(const char* format, ...);
